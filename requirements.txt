@@ -1,0 +1,10 @@
+Flask==3.0.0
+Flask-RESTful==0.3.10
+Flask-WTF==1.2.1
+requests==2.31.0
+fastapi==0.104.1
+uvicorn==0.24.0
+httpx==0.25.2
+Requests
+Flake8
+pytest
